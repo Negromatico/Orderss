@@ -1,0 +1,11 @@
+D:\Orders_Sena_Backend-main\Orders_Sena_Backend-main\Orders\Orders.Shared\bin\Debug\net8.0\Orders.Shared.deps.json
+D:\Orders_Sena_Backend-main\Orders_Sena_Backend-main\Orders\Orders.Shared\bin\Debug\net8.0\Orders.Shared.dll
+D:\Orders_Sena_Backend-main\Orders_Sena_Backend-main\Orders\Orders.Shared\bin\Debug\net8.0\Orders.Shared.pdb
+D:\Orders_Sena_Backend-main\Orders_Sena_Backend-main\Orders\Orders.Shared\obj\Debug\net8.0\Orders.Shared.GeneratedMSBuildEditorConfig.editorconfig
+D:\Orders_Sena_Backend-main\Orders_Sena_Backend-main\Orders\Orders.Shared\obj\Debug\net8.0\Orders.Shared.AssemblyInfoInputs.cache
+D:\Orders_Sena_Backend-main\Orders_Sena_Backend-main\Orders\Orders.Shared\obj\Debug\net8.0\Orders.Shared.AssemblyInfo.cs
+D:\Orders_Sena_Backend-main\Orders_Sena_Backend-main\Orders\Orders.Shared\obj\Debug\net8.0\Orders.Shared.csproj.CoreCompileInputs.cache
+D:\Orders_Sena_Backend-main\Orders_Sena_Backend-main\Orders\Orders.Shared\obj\Debug\net8.0\Orders.Shared.dll
+D:\Orders_Sena_Backend-main\Orders_Sena_Backend-main\Orders\Orders.Shared\obj\Debug\net8.0\refint\Orders.Shared.dll
+D:\Orders_Sena_Backend-main\Orders_Sena_Backend-main\Orders\Orders.Shared\obj\Debug\net8.0\Orders.Shared.pdb
+D:\Orders_Sena_Backend-main\Orders_Sena_Backend-main\Orders\Orders.Shared\obj\Debug\net8.0\ref\Orders.Shared.dll
